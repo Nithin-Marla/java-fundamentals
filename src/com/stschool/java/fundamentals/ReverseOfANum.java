@@ -1,8 +1,7 @@
 package com.stschool.java.fundamentals;
 
 import java.util.Scanner;
-
-public class ReverseOfANum {
+class ReverseOfANum {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
