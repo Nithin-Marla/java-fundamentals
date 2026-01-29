@@ -2,7 +2,7 @@ package com.stschool.java.fundamentals;
 
 import java.util.Scanner;
 
-public class sumOfNumbersUsingRecursion {
+public class SumOfNumbersUsingRecursion {
     static void fn(int i, int sum) {
         if (i < 1) {
             System.out.println(sum);
